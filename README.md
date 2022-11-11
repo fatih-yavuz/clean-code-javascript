@@ -113,7 +113,7 @@ saveCityZipCode(city, zipCode);
 
 **[⬆ Başa dön](#İçindekiler)**
 
-### Kafadan planmaktan kaçının
+### Kafada planlamaktan kaçının
 
 Açık olmak, ima etmekten iyidir.
 
